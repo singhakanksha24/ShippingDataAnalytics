@@ -1,4 +1,4 @@
-Customer Analytics
+# Customer Analytics
 Synopsis
 
 Problem Statement – The Delivering of product on time is very important for company for maintain its customers because churning rate is also depends on  delivery time. Company also spent lots of money on delivery services. My aim is to Classify correctly whether product reached on time or not which helpful in making delivery services better and company will  spent money on delivery services according to delivery services.
